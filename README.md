@@ -1,7 +1,7 @@
 # Interactive-card-details-form
  Um projeto de um Formulário interativo de detalhes do cartão em HTML, CSS e JavaScript by Frontend Mentor.
 
-Projeto Formulário de Detalhes de Cartão Interativo
+# Projeto Formulário de Detalhes de Cartão Interativo
 Este é o repositório do meu projeto Formulário de Detalhes de Cartão Interativo, desenvolvido como parte do desafio do Frontend Mentor.
 
 ## 📸 Demonstração
