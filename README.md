@@ -33,8 +33,5 @@ Gostaria de agradecer a Daniel Junio pela colaboração neste projeto, que desem
 
 His profile: https://github.com/hirokirigaya
 
-## 📝 Notas
-Este projeto é um exercício educacional como parte do curso da Origamid. Se tiver sugestões ou quiser contribuir, sinta-se à vontade para enviar um pull request.
-
 ## 📄 Licença
 Este projeto está sob a licença MIT - consulte o arquivo LICENSE para mais detalhes.
